@@ -1,2 +1,2 @@
 # frist-progect
-for ed of pro
+for ed of pr
